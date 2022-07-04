@@ -8,12 +8,32 @@
     {
       "id": 2,
       "title": "Cut the grass",
-      "completed": true
+      "completed": false
     },
     {
       "id": 3,
       "title": "Fix the gutters",
-      "completed": true
+      "completed": false
+    },
+    {
+      "title": "Go Shopping",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Go Grocery",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Go Do something",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "kjdskaljdlk",
+      "completed": false,
+      "id": 7
     }
   ]
 }
